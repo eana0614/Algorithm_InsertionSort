@@ -1,3 +1,4 @@
 ﻿  insertionSort.c
-  InsertionSort_C.vcxproj -> c:\users\eana0614\documents\visual studio 2015\Projects\InsertionSort_C\Debug\InsertionSort_C.exe
-  InsertionSort_C.vcxproj -> c:\users\eana0614\documents\visual studio 2015\Projects\InsertionSort_C\Debug\InsertionSort_C.pdb (Full PDB)
+c:\users\eana0614\documents\visual studio 2015\projects\insertionsort_c\insertionsort_c\rwchead.h(4): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  InsertionSort_C.vcxproj -> C:\Users\eana0614\Documents\Visual Studio 2015\Projects\InsertionSort_C\Debug\InsertionSort_C.exe
+  InsertionSort_C.vcxproj -> C:\Users\eana0614\Documents\Visual Studio 2015\Projects\InsertionSort_C\Debug\InsertionSort_C.pdb (Full PDB)
